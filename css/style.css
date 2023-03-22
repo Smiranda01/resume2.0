@@ -1,0 +1,336 @@
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    background-color: #191A19;
+}
+hr {
+    border-style: dotted none none;
+    border-color: white;
+    border-width: 5px;
+    width: 8%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+.top-container {
+    position: relative;
+    padding: 20px 20px 0 20px;
+    background-color: #C3F8FF;
+    margin-bottom: 0;
+}
+
+h1 {
+    position: relative;
+    display: inline block;
+    margin: 0 auto;
+    width: 350px;
+    top: 250px;
+    font-family: 'Sacramento', cursive;
+    font-size: 70px;
+    text-align: center;
+    margin-top: 0;
+}
+h2 {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 250px;
+}
+.intro {  
+    position: relative;
+    top: 160px;
+    font-family:'Montserrat', sans-serif;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 250px;
+}
+
+h3 {
+    color: #FAAB78;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.cloud-1{
+    position: absolute;
+    bottom: 50px;
+    right: 300px;
+    height: 80px;
+
+}
+
+.cloud-2 {
+    max-width: 100%;
+    height: auto;
+    position: relative;
+    bottom: 150px;
+    left: 300px;
+}
+
+.cloud-3{
+    position: absolute;
+    bottom: 190px;
+    left: 500px;
+}
+
+.cloud-4{
+    position: absolute;
+    bottom: 100px;
+    left: 100px;
+    height: 60px;
+}
+
+.mountain {
+    position: relative;
+    left: 420px;
+    margin-top: 20px;
+}
+
+.mountain2 {
+    position: absolute;
+    bottom: 0;
+    left: 100px;
+}
+
+.mountain3 {
+    position: absolute;
+    bottom: 0;
+    right: 100px;
+}
+.python-top-image{
+    position: absolute;
+    height: 300px;
+    right: 100px;
+}
+.js-top-image{
+    position: absolute;
+    height: 300px;
+    left: 100px;
+}
+
+.profile{
+    position: relative;
+    bottom: 20px;
+    background-color:#191A19;
+}
+
+.computer-image{
+    position: absolute;
+    top: 270px;
+    right: 100px;
+    height: 300px;
+
+}
+.web-icon{
+    position: absolute;
+    top: 270px;
+    left: 100px;
+    height: 300px;
+
+
+}
+.my-image {
+    position: relative;
+    display: block;
+    margin: 0 auto;
+    top: 130px;
+    height: 250px;
+    width: 320px;
+    border-radius: 100%;
+}
+
+.hello {
+    position: relative;
+    display: block;
+    margin: 0 auto;
+    top: 170px;
+    padding-top: 30px;
+    padding-bottom: 80px;
+    margin-bottom: 100px;
+    font-size: 60px;
+    font-family: 'Sacramento', cursive;
+    color: white;
+}
+
+.profile-paragraph{
+    display: inline block;
+    margin: 0 auto 0 auto;
+    padding-top: 30px;
+    padding-bottom: 100px;
+    width: 500px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+
+}
+
+.skills{
+    position: relative;
+    bottom: 50px;
+    padding-top: 100px;
+    padding-bottom: 200px;
+    background-color: #FFE3A9;
+
+}
+.my-skills{
+    position: relative;
+    top: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+    color: #C58940;
+}
+.skill-row{
+    position: relative;
+    bottom: 70px;
+    width: 50%;
+    margin: 120px auto;
+    text-align: left;
+    line-height: 1.5;
+}
+.skill-row-machine{
+    position: relative;
+    bottom: 70px;
+    width: 50%;
+    margin: 120px auto;
+    text-align: left;
+    line-height: 1.5;
+    margin-bottom:20px;
+}
+.python-image{
+    float: left;
+    display: block;
+    margin: 30px auto;
+    width: 200px;
+    padding-right: 20px;
+}
+.sql-image{
+    float: right;
+    display: block;
+    margin: 30px auto;
+    height: 200px;
+    padding-left: 20px;
+}
+.machine-learning-logo{
+    float: left;
+    display: block;
+    margin: 40px auto;
+    height: 200px;
+    padding-right: 20px;
+}
+.js-image{
+    float: right;
+    display: block;
+    margin: 30px auto;
+    height: 200px;
+    padding-left: 20px;
+}
+.java-script-p{
+    position: relative;
+    right: 220px;
+}
+.contact-me{
+    position: relative;
+    bottom: 70px;
+    background-color: #A5F1E9;
+    padding-top: 250px;
+}
+.forest{
+    max-width: 100%;
+    height: auto;
+    position: absolute;
+    left: 0;
+    bottom: -65px;
+}
+.forest2{
+    max-width: 100%;
+    height: auto;
+    position: absolute;
+    right: 0;
+    bottom: -65px;
+}
+.contact-row{
+    position: relative;
+    bottom: 150px;
+    margin: 0 auto;
+    width: 50%;
+}
+.get-in-touch{
+    color: #A35709;
+    font-family: 'Sacramento', cursive;
+    font-size: 80px;
+}
+.funny-quote{
+    position: absolute;
+    top: 125px;
+    color: #A35709;
+}
+.funny-subquote{
+    position: absolute;
+    bottom: 80px;
+    font-size: 20px;
+}
+.contact-me-btn {
+    display: inline-block;
+    background-color: #A35709;
+    color: #fff;
+    text-decoration: none;
+    padding: 15px 30px;
+    font-size: 18px;
+    border-radius: 6px;
+    border: 0;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+.contact-me-btn:hover {
+background-color: #2980b9;
+}
+.bottom-container {
+    position: relative;
+    bottom: 70px;
+    background-color: #191A19;
+    color: #fff;
+    padding-top: 70px;
+    padding-bottom: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    
+}
+.instagram-logo{
+    height: 40px;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+.footer-link {
+    position: relative;
+    top: 10px;
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.footer-link:hover {
+    color: #ccc;
+}
+
+.bottom-container a:not(.footer-link) {
+    color: #ccc;
+    margin-top: 10px;
+    transition: color 0.3s ease;
+}
+
+.bottom-container a:not(.footer-link):hover {
+    color: #fff;
+}
+
+.bottom-container p {
+    margin-top: 20px;
+}
+
